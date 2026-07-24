@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, I'm Kirill </h1>
 
-<h3> Junior InfoSec specialist / Trainee DevOps </h3>
+<h3> Junior InfoSec specialist / Junior DevOps </h3>
 
 <details>
 <summary><b>WhoAmI</b></summary>
